@@ -1,0 +1,6 @@
+Config = {
+    namescript "IuTina",--Tên Script
+    logoscript = "131827555042931",--ID Logo Script
+    tacgia = "MinhthonIutina"-- Tên Tác Giả
+} 
+loadstring(game: HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
